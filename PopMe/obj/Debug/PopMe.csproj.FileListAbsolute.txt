@@ -1,0 +1,17 @@
+C:\Users\Skege\source\repos\PopMe\PopMe\bin\Debug\PopMe.exe.config
+C:\Users\Skege\source\repos\PopMe\PopMe\bin\Debug\PopMe.exe
+C:\Users\Skege\source\repos\PopMe\PopMe\bin\Debug\PopMe.pdb
+C:\Users\Skege\source\repos\PopMe\PopMe\obj\Debug\PopMe.csproj.AssemblyReference.cache
+C:\Users\Skege\source\repos\PopMe\PopMe\obj\Debug\PopMe.Properties.Resources.resources
+C:\Users\Skege\source\repos\PopMe\PopMe\obj\Debug\PopMe.csproj.GenerateResource.cache
+C:\Users\Skege\source\repos\PopMe\PopMe\obj\Debug\PopMe.csproj.CoreCompileInputs.cache
+C:\Users\Skege\source\repos\PopMe\PopMe\obj\Debug\PopMe.exe
+C:\Users\Skege\source\repos\PopMe\PopMe\obj\Debug\PopMe.pdb
+C:\Users\Skege\source\repos\PopMe\PopMe\obj\Debug\PopMe.MainMenu.resources
+C:\Users\Skege\source\repos\PopMe\PopMe\obj\Debug\PopMe.Easy.resources
+C:\Users\Skege\source\repos\PopMe\PopMe\obj\Debug\PopMe.Levels.resources
+C:\Users\Skege\source\repos\PopMe\PopMe\obj\Debug\PopMe.EasyLevelWin.resources
+C:\Users\Skege\source\repos\PopMe\PopMe\obj\Debug\PopMe.Hard.resources
+C:\Users\Skege\source\repos\PopMe\PopMe\obj\Debug\PopMe.HardWin.resources
+C:\Users\Skege\source\repos\PopMe\PopMe\obj\Debug\PopMe.Medium.resources
+C:\Users\Skege\source\repos\PopMe\PopMe\obj\Debug\PopMe.MediumWin.resources
