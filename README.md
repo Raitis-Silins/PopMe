@@ -1,5 +1,5 @@
 ### Hey 👋
-This is my <b>"Pop balloon"</b> game but with faces written in C# Windows Forms. Feel free to check it out.
+This is my <b>"Pop balloon"</b> game but with faces instead of balloons written in C# Windows Forms. Feel free to check it out.
 
 - <b> Game Screenshots </b>
 
